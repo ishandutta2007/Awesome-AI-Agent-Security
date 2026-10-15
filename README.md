@@ -63,46 +63,46 @@ The global AI Agent and LLM Security market is estimated at **$1.25B to $1.65B i
 
 ## 💻 Open-Source GitHub Projects
 
-- **[iFixAi](https://github.com/ifixai-ai/iFixAi)** [![GitHub stars](https://img.shields.io/github/stars/ifixai-ai/iFixAi?style=social&color=white)](https://github.com/ifixai-ai/iFixAi/stargazers)  
+- **[iFixAi](https://github.com/ifixai-ai/iFixAi)** [![GitHub_Stars](https://img.shields.io/github/stars/ifixai-ai/iFixAi?style=social&color=white)](https://github.com/ifixai-ai/iFixAi/stargazers)  
   Independent auditing and verification framework for AI agents to check misalignment, authority boundaries, and behavioral compliance.
 
-- **[promptfoo](https://github.com/promptfoo/promptfoo)** [![GitHub stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social&color=white)](https://github.com/promptfoo/promptfoo/stargazers)  
+- **[promptfoo](https://github.com/promptfoo/promptfoo)** [![GitHub_Stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social&color=white)](https://github.com/promptfoo/promptfoo/stargazers)  
   CLI and library for red-teaming, penetration testing, and security evaluation of LLM applications, prompts, and autonomous agent setups.
 
-- **[DeepEval](https://github.com/confident-ai/deepeval)** [![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social&color=white)](https://github.com/confident-ai/deepeval/stargazers)  
+- **[DeepEval](https://github.com/confident-ai/deepeval)** [![GitHub_Stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social&color=white)](https://github.com/confident-ai/deepeval/stargazers)  
   Open-source evaluation framework for unit testing LLM applications and agent pipelines against toxicity, hallucination, and security risks.
 
-- **[Garak](https://github.com/NVIDIA/garak)** [![GitHub stars](https://img.shields.io/github/stars/NVIDIA/garak?style=social&color=white)](https://github.com/NVIDIA/garak/stargazers)  
+- **[Garak](https://github.com/NVIDIA/garak)** [![GitHub_Stars](https://img.shields.io/github/stars/NVIDIA/garak?style=social&color=white)](https://github.com/NVIDIA/garak/stargazers)  
   Generative AI vulnerability scanner probing models, hallucination edges, data leakage vectors, and jailbreaks.
 
-- **[Guardrails AI](https://github.com/guardrails-ai/guardrails)** [![GitHub stars](https://img.shields.io/github/stars/guardrails-ai/guardrails?style=social&color=white)](https://github.com/guardrails-ai/guardrails/stargazers)  
+- **[Guardrails AI](https://github.com/guardrails-ai/guardrails)** [![GitHub_Stars](https://img.shields.io/github/stars/guardrails-ai/guardrails?style=social&color=white)](https://github.com/guardrails-ai/guardrails/stargazers)  
   Open-source runtime validation framework and guardrails hub for enforcing structural integrity, output schema safety, and content policies.
 
-- **[NVIDIA NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)** [![GitHub stars](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails?style=social&color=white)](https://github.com/NVIDIA/NeMo-Guardrails/stargazers)  
+- **[NVIDIA NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)** [![GitHub_Stars](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails?style=social&color=white)](https://github.com/NVIDIA/NeMo-Guardrails/stargazers)  
   Open-source toolkit for adding programmable rails (input, output, dialog flow, retrieval, and action execution) to LLM-powered applications and agents.
 
-- **[PyRIT (Microsoft)](https://github.com/microsoft/PyRIT)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/PyRIT?style=social&color=white)](https://github.com/microsoft/PyRIT/stargazers)  
+- **[PyRIT (Microsoft)](https://github.com/microsoft/PyRIT)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/PyRIT?style=social&color=white)](https://github.com/microsoft/PyRIT/stargazers)  
   The Python Risk Identification Tool for Generative AI, Microsoft's automated red-teaming framework for identifying security and robustness flaws.
 
-- **[LlamaFirewall / Purple Llama](https://github.com/meta-llama/PurpleLlama)** [![GitHub stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?style=social&color=white)](https://github.com/meta-llama/PurpleLlama/stargazers)  
+- **[LlamaFirewall / Purple Llama](https://github.com/meta-llama/PurpleLlama)** [![GitHub_Stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?style=social&color=white)](https://github.com/meta-llama/PurpleLlama/stargazers)  
   Meta's open-source suite of cyber and safety evaluation tools, input/output safeguards, and agent execution defenses.
 
-- **[LLM Guard](https://github.com/protectai/llm-guard)** [![GitHub stars](https://img.shields.io/github/stars/protectai/llm-guard?style=social&color=white)](https://github.com/protectai/llm-guard/stargazers)  
+- **[LLM Guard](https://github.com/protectai/llm-guard)** [![GitHub_Stars](https://img.shields.io/github/stars/protectai/llm-guard?style=social&color=white)](https://github.com/protectai/llm-guard/stargazers)  
   The security toolkit for LLM interactions offering sanitization, prompt injection detection, sensitive data leakage prevention, and output scanning.
 
-- **[Rebuff](https://github.com/protectai/rebuff)** [![GitHub stars](https://img.shields.io/github/stars/protectai/rebuff?style=social&color=white)](https://github.com/protectai/rebuff/stargazers)  
+- **[Rebuff](https://github.com/protectai/rebuff)** [![GitHub_Stars](https://img.shields.io/github/stars/protectai/rebuff?style=social&color=white)](https://github.com/protectai/rebuff/stargazers)  
   Multi-layered prompt injection detection engine combining heuristics, dedicated vector storage of known attacks, and LLM verification.
 
-- **[ModelScan](https://github.com/protectai/modelscan)** [![GitHub stars](https://img.shields.io/github/stars/protectai/modelscan?style=social&color=white)](https://github.com/protectai/modelscan/stargazers)  
+- **[ModelScan](https://github.com/protectai/modelscan)** [![GitHub_Stars](https://img.shields.io/github/stars/protectai/modelscan?style=social&color=white)](https://github.com/protectai/modelscan/stargazers)  
   Open-source tool designed to detect serialization and code execution vulnerabilities across AI/ML model formats (PyTorch, Pickle, Keras, etc.).
 
-- **[Vigil](https://github.com/deadbits/vigil-llm)** [![GitHub stars](https://img.shields.io/github/stars/deadbits/vigil-llm?style=social&color=white)](https://github.com/deadbits/vigil-llm/stargazers)  
+- **[Vigil](https://github.com/deadbits/vigil-llm)** [![GitHub_Stars](https://img.shields.io/github/stars/deadbits/vigil-llm?style=social&color=white)](https://github.com/deadbits/vigil-llm/stargazers)  
   Open-source security scanner and firewall for detecting prompt injections, jailbreaks, and unsafe input payloads in LLM and agent pipelines.
 
-- **[Agent Memory Guard (OWASP)](https://github.com/OWASP/www-project-agent-memory-guard)** [![GitHub stars](https://img.shields.io/github/stars/OWASP/www-project-agent-memory-guard?style=social&color=white)](https://github.com/OWASP/www-project-agent-memory-guard/stargazers)  
+- **[Agent Memory Guard (OWASP)](https://github.com/OWASP/www-project-agent-memory-guard)** [![GitHub_Stars](https://img.shields.io/github/stars/OWASP/www-project-agent-memory-guard?style=social&color=white)](https://github.com/OWASP/www-project-agent-memory-guard/stargazers)  
   OWASP incubator project that detects and blocks memory poisoning attacks in AI agent memory stores via declarative screening rules.
 
-- **[mguard](https://github.com/mguard-ai/mguard)** [![GitHub stars](https://img.shields.io/github/stars/mguard-ai/mguard?style=social&color=white)](https://github.com/mguard-ai/mguard/stargazers)  
+- **[mguard](https://github.com/mguard-ai/mguard)** [![GitHub_Stars](https://img.shields.io/github/stars/mguard-ai/mguard?style=social&color=white)](https://github.com/mguard-ai/mguard/stargazers)  
   Memory defense library aimed at stopping memory-poisoning style attacks (e.g., MINJA, AgentPoison) before they contaminate agent context.
 
 - **[OWASP AI Agent Security Resources](https://owasp.org/www-project-agent-memory-guard/)**  
@@ -124,7 +124,7 @@ Contributions are always welcome! 🚀
 
 1. 🍴 **Fork the repository**.
 2. 🌿 **Create a feature branch**: `git checkout -b feature/new-security-tool`.
-3. ✍️ **Add or update entries** in `README.md` keeping formatting consistent (name, links, factual descriptions, pricing/star badges).
+3. ✍️ **Add or update entries** in `README.md` keeping formatting consistent (name, links, factual descriptions, pricing/Stars_Badges).
 4. 📬 **Submit a Pull Request** with a brief summary of the project.
 
 ---
