@@ -1,46 +1,52 @@
-# Awesome-AI-Agent-Security
+<div align="center">
 
-## Top AI Agent Security Platforms Ecosystem
+<img src="./assets/banner.svg" alt="Awesome AI Agent Security Banner" width="100%" />
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+# 🛡️ Awesome AI Agent Security 🤖
 
-*Focused on Guardrails, Prompt Injection Defense, Memory Poisoning Protection, Runtime Safety & Agent Trustworthiness*
+[![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Aeesome-Awesome-Awesome)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jc4xtF58Ve)
+[![Curated List](https://img.shields.io/badge/Curated_List-AI_Agent_Security-10b981.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-AI-Agent-Security)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-AI-Agent-Security/pulls)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![GitHub followers](https://img.shields.io/github/followers/ishandutta2007?label=Follow)](https://github.com/ishandutta2007)
 
-**Last updated: October 2026**
+**A Curated Directory of SaaS Platforms & Open-Source Tools for AI Agent Security, Runtime Guardrails, Prompt Injection Defense, Memory Poisoning Protection & Agent Trustworthiness**
 
+*Tracking LLM Application Security, AISPM (AI Security Posture Management), Multi-Agent Guardrails, Autonomous Agent Red Teaming & Behavioral Auditing.*
 
+📅 **Last updated: October 2026**
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **AI Agent Security**. These tools protect agents against prompt injection, memory poisoning, tool misuse, data leakage, and other agent-specific threats through guardrails, runtime monitoring, and independent verification.
+</div>
 
+---
 
+## 📖 Overview
 
-**Examples** include Lakera, HiddenLayer, Protect AI, Patronus AI, Arthur Shield, Robust Intelligence, CalypsoAI, NVIDIA NeMo Guardrails, Fiddler AI, and Aporia (the category leaders).
+This repository tracks notable **SaaS platforms** and **open-source projects** for **AI Agent Security**. As autonomous AI agents gain multi-hop reasoning, external tool execution, and persistent memory capabilities, securing them against prompt injection, memory poisoning, unauthorized API tool misuse, and confidential data leakage becomes mission-critical.
 
+* **Category Leaders:** Lakera, HiddenLayer, Protect AI, Patronus AI, Arthur Shield, Robust Intelligence (Cisco), CalypsoAI (F5), NVIDIA NeMo Guardrails, Fiddler AI, and Aporia (Coralogix).
+* **Open-Source Foundations:** Strong community frameworks such as **Agent Memory Guard (OWASP)**, **NVIDIA NeMo Guardrails**, **Guardrails AI**, **LlamaFirewall (Purple Llama)**, and **PyRIT** empower developers with transparent, self-hosted runtime defense pipelines.
 
+---
 
-**Open-source emphasis**: Agent security has strong open foundations. **Agent Memory Guard (OWASP)**, **NVIDIA NeMo Guardrails**, **Guardrails AI**, **LlamaFirewall**, and related projects enable self-hosted protection against memory poisoning, injection, and unsafe outputs. This section is heavily expanded.
+## 📑 Table of Contents
 
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS / Hosted Platforms](#️-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer](#️-disclaimer)
 
+---
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-
-
-## Sector Overview & Market Dynamics
+## 📊 Sector Overview & Market Dynamics
 
 The global AI Agent and LLM Security market is estimated at **$1.25B to $1.65B in 2025–2026** (within the broader $30B–$35B AI cybersecurity market) and is projected to surge past **$13.5B by 2032** at an annual growth rate exceeding 40%. The sector is currently **moderately fragmented**—driven by dozens of specialized AI-native startups securing agent autonomy, memory stores, and tool execution—yet experiencing rapid consolidation as cybersecurity juggernauts (Cisco, Palo Alto Networks, Check Point, F5) acquire emerging leaders.
 
-## SaaS/Hosted Platforms
+## ☁️ SaaS / Hosted Platforms
 
 | Platform | Company Size / Valuation | Starting Tier Price | Free Tier Limits | Description |
 | :--- | :--- | :--- | :--- | :--- |
@@ -55,7 +61,7 @@ The global AI Agent and LLM Security market is estimated at **$1.25B to $1.65B i
 | **[Patronus AI](https://www.patronus.ai/)** | ~$70M raised (Series B) | $25/month (Base platform starting tier) | Free forever plan: 30,000 scan units/month, 2-week history data retention | Automated evaluation, automated red-teaming, and safety platform detecting hallucinations, tool misuse, and unsafe agent behaviors. |
 | **[Aporia](https://www.aporia.com/)** | ~$50M (Acquired by Coralogix) | Custom Scaler tier (Contact sales) | 14-day free trial (Full platform features; Starter tier $0/year for limited evaluation) | ML observability and real-time AI guardrails platform detecting drift, anomalies, hallucinations, and unsafe output generation. |
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 - **[iFixAi](https://github.com/ifixai-ai/iFixAi)** [![GitHub stars](https://img.shields.io/github/stars/ifixai-ai/iFixAi?style=social&color=white)](https://github.com/ifixai-ai/iFixAi/stargazers)  
   Independent auditing and verification framework for AI agents to check misalignment, authority boundaries, and behavioral compliance.
@@ -102,47 +108,53 @@ The global AI Agent and LLM Security market is estimated at **$1.25B to $1.65B i
 - **[OWASP AI Agent Security Resources](https://owasp.org/www-project-agent-memory-guard/)**  
   Official guidelines, threat models, and contribution roadmaps for hardening agent memory and runtime behavior with open tools.
 
-### Additional Strong Open-Source Options
+### 🛡️ Recommended Architecture Pattern
 
-- Protecting persistent memory with **Agent Memory Guard** (OWASP) or **mguard**.
-- Adding programmable conversational and tool-execution rails with **NeMo Guardrails**.
-- Validating outputs and schemas with **Guardrails AI** or **LLM Guard**.
-- Red-teaming agents via **promptfoo**, **PyRIT**, **Garak**, or **iFixAi**.
-- Combining open guardrails with self-hosted observability (Langfuse, Phoenix) for full visibility.
-- Leveraging commercial platforms (Lakera, HiddenLayer, Protect AI, CalypsoAI, etc.) for managed threat intelligence and enterprise SLAs.
-
-
-
-**Frameworks for building custom systems**: Insert **Agent Memory Guard** between agents and memory stores → wrap LLM/tool calls with **NeMo Guardrails** or **Guardrails AI** → continuously test with **promptfoo** / **Garak**. Suitable for teams that need transparent, auditable security controls. Many organizations still adopt commercial agent security platforms for operational support and threat feeds.
-
-
-
-## How to Contribute
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Agent security tools reduce risk but do not eliminate it. Combine automated defenses with least-privilege tool access, human oversight, and regular red-teaming. This list is not security, compliance, or legal advice.
-
-
+- **Memory Protection**: Intercept persistent memory read/write cycles with **Agent Memory Guard** or **mguard**.
+- **Execution & Dialog Guardrails**: Wrap LLM inferences and autonomous tool calls with **NeMo Guardrails** or **Guardrails AI**.
+- **Input Sanitization & Output Filtering**: Deploy **LLM Guard** or **Rebuff** to thwart direct/indirect prompt injection and confidential data leakage.
+- **Continuous Red Teaming**: Audit agents and trigger automated vulnerability discovery using **promptfoo**, **PyRIT**, or **Garak**.
+- **Enterprise Defense-in-Depth**: Pair open guardrails with commercial platforms (Lakera, HiddenLayer, Protect AI, CalypsoAI) for zero-day threat feeds and managed compliance.
 
 ---
 
-**Made for AI security engineers, red teams, and trustworthy-agent builders.**
+## 🤝 How to Contribute
 
-Let's keep AI agents safer, more transparent, and as open as practical.
+Contributions are always welcome! 🚀
+
+1. 🍴 **Fork the repository**.
+2. 🌿 **Create a feature branch**: `git checkout -b feature/new-security-tool`.
+3. ✍️ **Add or update entries** in `README.md` keeping formatting consistent (name, links, factual descriptions, pricing/star badges).
+4. 📬 **Submit a Pull Request** with a brief summary of the project.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for exploring and building with **Awesome AI Agent Security**! If you find this curated security index valuable:
+
+- ⭐ **Star this repository** to help others discover trustworthy agent security practices.
+- 🍴 **Fork and share** with fellow developers, security engineers, and red teams.
+- ☕ **Support the maintainer**: If you would like to buy a coffee or sponsor continuous updates, visit the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+[![Sponsor ishandutta2007](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/ishandutta2007)
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-AI-Agent-Security&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-AI-Agent-Security&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This is a **community-curated index** — not exhaustive and not a commercial endorsement.
+- AI agent security tools mitigate risks but do not guarantee 100% defense against all adversarial vectors. Always adhere to the principle of least privilege, enforce human-in-the-loop approvals for critical actions, and conduct regular penetration testing.
+
+---
+
+<div align="center">
+  <b>Built for AI security engineers, red teams, and autonomous agent builders. 🛡️🤖</b><br/>
+  <sub>Let's keep AI agents safer, more transparent, and resilient against emerging threats.</sub>
+</div>
