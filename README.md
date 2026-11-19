@@ -78,6 +78,9 @@ The global AI Agent and LLM Security market is estimated at **$1.25B to $1.65B i
 - **[Guardrails AI](https://github.com/guardrails-ai/guardrails)** [![GitHub_Stars](https://img.shields.io/github/stars/guardrails-ai/guardrails?style=social&color=white)](https://github.com/guardrails-ai/guardrails/stargazers)  
   Open-source runtime validation framework and guardrails hub for enforcing structural integrity, output schema safety, and content policies.
 
+- **[HOL Guard](https://hol.org/guard)** [![GitHub_Stars](https://img.shields.io/github/stars/hashgraph-online/hol-guard?style=social&color=white)](https://github.com/hashgraph-online/hol-guard/stargazers)  
+  Open-source local runtime security for supported AI coding-agent actions, including shell commands, sensitive file access, package installs, and MCP calls. It can allow, block, or request approval where supported hooks provide enforcement.
+
 - **[NVIDIA NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)** [![GitHub_Stars](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails?style=social&color=white)](https://github.com/NVIDIA/NeMo-Guardrails/stargazers)  
   Open-source toolkit for adding programmable rails (input, output, dialog flow, retrieval, and action execution) to LLM-powered applications and agents.
 
